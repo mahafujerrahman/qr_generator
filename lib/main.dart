@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-        child: Scaffold(g
+        child: Scaffold(
       appBar: AppBar (title: Text(  "Generating QR-Code in a Flutter App")),
 
 
