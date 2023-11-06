@@ -1,4 +1,4 @@
-# qr_generator
+# QR_Generator
 
 # Screenshot![Screenshot_11](https://github.com/mahafujerrahman/qr_generator/assets/86947799/239d0483-aaa9-4cf1-b8fe-9db876b9e96d)
 
